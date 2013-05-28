@@ -1,0 +1,8 @@
+cron:
+- description: search tweets and update news on wordpress
+  url: /your/application/path/to/updater
+  schedule: every 15 minutes
+- description: tweets daily news
+  url: /your/application/path/to/tweeter
+  schedule: every day 23:50
+  timezone: Asia/Tokyo
