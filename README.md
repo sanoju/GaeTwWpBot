@@ -2,7 +2,7 @@ GaeTwWpBot
 ==========
 GaeTwWpBot is a GAE application to:
 - search tweets on Twitter,
-- post them to your WordPress site, and
+- aggregate them to your WordPress site, and
 - tweet daily to Twitter.
 
 The application is written in Python 2.7, and
